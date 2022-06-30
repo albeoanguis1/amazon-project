@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#lil-container {
+    border: 1px solid lightgray;
+    border-radius: 1%;
+}
+
+
+img {
+    width: 7em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#signin {
+    padding-top: 20px;
+}
+
+#sign-in-btn {
+    display: block;
+    width: 100%;
+    background-image: linear-gradient(rgb(246,222,162),rgb(240,193,76));
+    color: black
+}
+
+#sign-in-btn a {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#cou {
+    margin-top: 10px;
+}
+
+#new {
+    color:lightslategrey;
+    text-align: center;
+    font-size: 10pt;
+    letter-spacing: 0.5px;
+}
+
+#new-acct {
+    display: block;
+    width: 100%;
+    color: black;
+    background-image: linear-gradient(rgb(246,247,249), rgb(218,220,222));
+    margin-bottom: 3em;
+}
+
+#new-acct a{
+    color: black;
+}
